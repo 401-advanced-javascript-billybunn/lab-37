@@ -7,10 +7,11 @@
 
 ### Links and Resources
 * [PR](https://github.com/401-advanced-javascript-billybunn/lab-37/pull/1)
+* [CodeSandbox](https://codesandbox.io/s/p7m76no29j)
 
-### Implement Login and Authorization into an existing application
-[CodeSandbox](https://codesandbox.io/s/p7m76no29j)
+#### Task: 
+Implement Login and Authorization into an existing application
+
 
 #### UML
-Completed in collaboration with Chris Merrit
-![UML Diagram](https://i.imgur.com/DbAPSgv.jpg)
+![UML Diagram](https://imgur.com/gyx4Uay.jpg)
